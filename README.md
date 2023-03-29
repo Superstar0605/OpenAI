@@ -1,3 +1,5 @@
-first -  npm run dev
-second - cd client
-	 npm run start
+npm install
+npm run dev
+cd client
+npm install
+npm run start
